@@ -47,6 +47,14 @@ The Daily Pulse is a modern, responsive news application that fetches and displa
 
 ## 📸 Screenshots
 
+![image alt](https://github.com/Sainath-K-tech/The-Daily-Pulse-NewsApp-/blob/d2091b57de7587f250059abc4e9a05d7cc511219/Screenshot%202025-08-09%20152157.png)
+![image alt](https://github.com/Sainath-K-tech/The-Daily-Pulse-NewsApp-/blob/d2091b57de7587f250059abc4e9a05d7cc511219/Screenshot%202025-08-09%20152140.png)
+![image alt](https://github.com/Sainath-K-tech/The-Daily-Pulse-NewsApp-/blob/d2091b57de7587f250059abc4e9a05d7cc511219/Screenshot%202025-08-09%20152325.png)
+![image alt](https://github.com/Sainath-K-tech/The-Daily-Pulse-NewsApp-/blob/d2091b57de7587f250059abc4e9a05d7cc511219/Screenshot%202025-08-09%20152401.png)
+![image alt](https://github.com/Sainath-K-tech/The-Daily-Pulse-NewsApp-/blob/d2091b57de7587f250059abc4e9a05d7cc511219/Screenshot%202025-08-09%20152426.png)
+
+
+
 
 
 
