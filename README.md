@@ -1,9 +1,9 @@
-📰 The Daily Pulse – News App
+## 📰 The Daily Pulse – News App
 
 The Daily Pulse is a modern, responsive news application that fetches and displays real-time news articles in a clean, user-friendly interface. Built with React and powered by a news API, it provides up-to-date coverage across various categories such as technology, sports, health, and more.
 
 
-🚀 Features
+## 🚀 Features
 -- 📢 Latest News Updates – Stay informed with real-time news.
 
 -- 🗂 Category-wise Browsing – Filter news by categories.
@@ -15,7 +15,7 @@ The Daily Pulse is a modern, responsive news application that fetches and displa
 -- 📰 Elegant UI/UX – Minimal and clean design.
 
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 -- Frontend: React, Vite, JavaScript (ES6+), CSS
 
 -- API: News API (RESTful endpoints)
@@ -25,7 +25,7 @@ The Daily Pulse is a modern, responsive news application that fetches and displa
 -- Version Control: Git & GitHub
 
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 1. Clone the repository
    ```bash
      git clone https://github.com/<your-username>/The-Daily-Pulse.git
@@ -45,7 +45,7 @@ The Daily Pulse is a modern, responsive news application that fetches and displa
 
    
 
-📸 Screenshots
+## 📸 Screenshots
 
 
 
