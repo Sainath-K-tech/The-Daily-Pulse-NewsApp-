@@ -28,7 +28,7 @@ The Daily Pulse is a modern, responsive news application that fetches and displa
 ## ⚙️ Installation & Setup
 1. Clone the repository
    ```bash
-     git clone https://github.com/<your-username>/The-Daily-Pulse.git
+     git clone https://github.com/<Sainath-K-tech>/The-Daily-Pulse-NewsApp.git
      cd my-app
 
 2. Set up your NewsApi key
