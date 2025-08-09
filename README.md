@@ -1,4 +1,5 @@
 📰 The Daily Pulse – News App
+
 The Daily Pulse is a modern, responsive news application that fetches and displays real-time news articles in a clean, user-friendly interface. Built with React and powered by a news API, it provides up-to-date coverage across various categories such as technology, sports, health, and more.
 
 
