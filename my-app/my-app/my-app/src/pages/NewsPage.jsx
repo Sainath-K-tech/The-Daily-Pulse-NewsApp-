@@ -8,7 +8,7 @@ function App() {
   const [category, setCategory] = useState('technology');
   const [country, setCountry] = useState('in');
 
-  const API_KEY = 'pub_13d9a5109ae749b9a800f289b6b051e3'; // Replace with your NewsData.io API Key
+  const API_KEY = 'YOUR_NEWSAPP_API'; // Replace with your NewsData.io API Key
   const LANGUAGE = 'en';
 
   const categories = [
